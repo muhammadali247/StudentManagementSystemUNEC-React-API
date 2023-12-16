@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\templates\\confirm-email.html",
+      "PackagePath": "staticwebassets\\assets\\templates\\confirm-email.html"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\templates\\otp-verification.html",
+      "PackagePath": "staticwebassets\\assets\\templates\\otp-verification.html"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\templates\\reset-password.html",
+      "PackagePath": "staticwebassets\\assets\\templates\\reset-password.html"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\templates\\template-images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\templates\\template-images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\templates\\two-factor.html",
+      "PackagePath": "staticwebassets\\assets\\templates\\two-factor.html"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\02f5e65b-4ba5-43b2-a7c8-b1303e434fad-guest-user.png",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\02f5e65b-4ba5-43b2-a7c8-b1303e434fad-guest-user.png"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\0325e908-b085-42c3-a10e-28af5536c531-Mourinho.jpeg",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\0325e908-b085-42c3-a10e-28af5536c531-Mourinho.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\0449b1b7-65c3-4660-9189-b775371c649d-zeynal.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\0449b1b7-65c3-4660-9189-b775371c649d-zeynal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\0c3fe39b-a690-4c25-8733-a297e51f28a0-qurbanOlduqum.jpeg",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\0c3fe39b-a690-4c25-8733-a297e51f28a0-qurbanOlduqum.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\1266fcc0-972b-47b0-8561-ea16db70b248-qurbanOlduqum.jpeg",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\1266fcc0-972b-47b0-8561-ea16db70b248-qurbanOlduqum.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\56189bcc-6935-45bf-9d2e-45f8921e2d85-qurbanOlduqum.jpeg",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\56189bcc-6935-45bf-9d2e-45f8921e2d85-qurbanOlduqum.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\59b19702-c7d9-432c-8fc0-cc52a0b9a23a-qurbanOlduqum.jpeg",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\59b19702-c7d9-432c-8fc0-cc52a0b9a23a-qurbanOlduqum.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\95eebe97-917f-412a-ab1e-8a83539aa776-zuli.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\95eebe97-917f-412a-ab1e-8a83539aa776-zuli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\c33f9a8e-b006-4eda-8098-a61b2589872b-qurbanOlduqum.jpeg",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\c33f9a8e-b006-4eda-8098-a61b2589872b-qurbanOlduqum.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\cf160e37-22fe-4a84-ba2a-3fdce3bcd775-qurbanOlduqum.jpeg",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\cf160e37-22fe-4a84-ba2a-3fdce3bcd775-qurbanOlduqum.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\cfe639ca-001e-4150-a532-7e24c467719e-Qurban.jpeg",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\cfe639ca-001e-4150-a532-7e24c467719e-Qurban.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\dfc65d00-2f63-4695-aabb-9a42d8026c21-Qurban.jpeg",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\dfc65d00-2f63-4695-aabb-9a42d8026c21-Qurban.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\student-images\\fb95370b-6db0-4501-b525-b590eee1e149-clown.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\student-images\\fb95370b-6db0-4501-b525-b590eee1e149-clown.jpg"
+    },
+    {
+      "Id": "C:\\Users\\magoo\\OneDrive\\Рабочий стол\\StudentManagementSystemUNEC\\src\\StudentManagementSystemUNEC.API\\wwwroot\\assets\\uploads\\images\\teacher-images\\ae955c38-959c-4ed9-928d-dd7edb8deb26-guest-user.png",
+      "PackagePath": "staticwebassets\\assets\\uploads\\images\\teacher-images\\ae955c38-959c-4ed9-928d-dd7edb8deb26-guest-user.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StudentManagementSystemUNEC.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StudentManagementSystemUNEC.API.props",
+      "PackagePath": "build\\StudentManagementSystemUNEC.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentManagementSystemUNEC.API.props",
+      "PackagePath": "buildMultiTargeting\\StudentManagementSystemUNEC.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StudentManagementSystemUNEC.API.props",
+      "PackagePath": "buildTransitive\\StudentManagementSystemUNEC.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

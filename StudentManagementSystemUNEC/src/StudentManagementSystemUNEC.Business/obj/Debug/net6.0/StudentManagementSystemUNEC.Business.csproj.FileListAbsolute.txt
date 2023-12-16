@@ -1,0 +1,17 @@
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\bin\Debug\net6.0\StudentManagementSystemUNEC.Business.deps.json
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\bin\Debug\net6.0\StudentManagementSystemUNEC.Business.dll
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\bin\Debug\net6.0\StudentManagementSystemUNEC.Business.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\bin\Debug\net6.0\StudentManagementSystemUNEC.Core.dll
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\bin\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.dll
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\bin\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\bin\Debug\net6.0\StudentManagementSystemUNEC.Core.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\obj\Debug\net6.0\StudentManagementSystemUNEC.Business.csproj.AssemblyReference.cache
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\obj\Debug\net6.0\StudentManagementSystemUNEC.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\obj\Debug\net6.0\StudentManagementSystemUNEC.Business.AssemblyInfoInputs.cache
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\obj\Debug\net6.0\StudentManagementSystemUNEC.Business.AssemblyInfo.cs
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\obj\Debug\net6.0\StudentManagementSystemUNEC.Business.csproj.CoreCompileInputs.cache
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\obj\Debug\net6.0\StudentManagementSystemUNEC.Business.csproj.CopyComplete
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\obj\Debug\net6.0\StudentManagementSystemUNEC.Business.dll
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\obj\Debug\net6.0\refint\StudentManagementSystemUNEC.Business.dll
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\obj\Debug\net6.0\StudentManagementSystemUNEC.Business.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Business\obj\Debug\net6.0\ref\StudentManagementSystemUNEC.Business.dll

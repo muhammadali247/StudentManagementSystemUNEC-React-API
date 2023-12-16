@@ -1,0 +1,17 @@
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\bin\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.deps.json
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\bin\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.runtimeconfig.json
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\bin\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.dll
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\bin\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\bin\Debug\net6.0\StudentManagementSystemUNEC.Core.dll
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\bin\Debug\net6.0\StudentManagementSystemUNEC.Core.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\obj\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.csproj.AssemblyReference.cache
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\obj\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\obj\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.AssemblyInfoInputs.cache
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\obj\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.AssemblyInfo.cs
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\obj\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\obj\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.csproj.CopyComplete
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\obj\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.dll
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\obj\Debug\net6.0\refint\StudentManagementSystemUNEC.DataAccess.dll
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\obj\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\obj\Debug\net6.0\StudentManagementSystemUNEC.DataAccess.genruntimeconfig.cache
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.DataAccess\obj\Debug\net6.0\ref\StudentManagementSystemUNEC.DataAccess.dll

@@ -1,0 +1,24 @@
+.InputRow{
+    display: flex !important;
+    justify-content: space-around !important;
+    align-items: center !important;
+    gap: 1rem !important;
+}
+
+.uploadButton {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  
+    &:hover {
+      background-color: #0056b3;
+    }
+  
+    input[type="file"] {
+      display: none;
+    }
+  }

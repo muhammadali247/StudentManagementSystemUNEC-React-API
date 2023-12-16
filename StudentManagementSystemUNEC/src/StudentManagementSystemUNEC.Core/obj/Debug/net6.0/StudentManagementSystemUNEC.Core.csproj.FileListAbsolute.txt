@@ -1,0 +1,12 @@
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Core\bin\Debug\net6.0\StudentManagementSystemUNEC.Core.deps.json
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Core\bin\Debug\net6.0\StudentManagementSystemUNEC.Core.dll
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Core\bin\Debug\net6.0\StudentManagementSystemUNEC.Core.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Core\obj\Debug\net6.0\StudentManagementSystemUNEC.Core.csproj.AssemblyReference.cache
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Core\obj\Debug\net6.0\StudentManagementSystemUNEC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Core\obj\Debug\net6.0\StudentManagementSystemUNEC.Core.AssemblyInfoInputs.cache
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Core\obj\Debug\net6.0\StudentManagementSystemUNEC.Core.AssemblyInfo.cs
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Core\obj\Debug\net6.0\StudentManagementSystemUNEC.Core.csproj.CoreCompileInputs.cache
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Core\obj\Debug\net6.0\StudentManagementSystemUNEC.Core.dll
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Core\obj\Debug\net6.0\refint\StudentManagementSystemUNEC.Core.dll
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Core\obj\Debug\net6.0\StudentManagementSystemUNEC.Core.pdb
+C:\Users\magoo\OneDrive\Рабочий стол\StudentManagementSystemUNEC\src\StudentManagementSystemUNEC.Core\obj\Debug\net6.0\ref\StudentManagementSystemUNEC.Core.dll
